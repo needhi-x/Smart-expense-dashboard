@@ -78,7 +78,7 @@ streamlit run app.py
 ![Manage](images/manage_expenses.png)
 
 ## AI Insights
-![ AI Insights](images/ai_busted_insights.png)
+![ AI Insights](images/ai_budget_insights.png)
 
 ---
 ## 🎯 Learning Outcomes
